@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahwan Rhomadon(Awang)</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
-![Image Alt Text](https://lexica.art/prompt/6325f7ca-715d-4a4e-a132-f9956a7809ba)
+
+![Uploading p.jpg…]()
 
 <p align="left"> <a href="https://twitter.com/awangrh" target="blank"><img src="https://img.shields.io/twitter/follow/awangrh?logo=twitter&style=for-the-badge" alt="awangrh" /></a> </p>
 
