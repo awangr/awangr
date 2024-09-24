@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS and dart Flutter**
 
-- 👨‍💻 All of my projects are available at [https://awangr.github.io/MyResume.github.io/home.html](https://awangr.github.io/MyResume.github.io/home.html)
-
 - 💬 Ask me about **Web & Mobile**
 
 - 📫 How to reach me **awangrhomadon@gmail.com**
