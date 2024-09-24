@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 <p><img align="right" width="400" src="https://github.com/awangr/awangr/assets/113409906/54303e32-473a-4dae-a5cd-20c16a709530" alt="" /></p>
 
-<p align="left"> <a href="https://twitter.com/awangrh" target="blank"><img src="https://img.shields.io/twitter/follow/awangrh?logo=twitter&style=for-the-badge" alt="awangrh" /></a> </p>
-
 - 🌱 I’m currently learning **HTML,CSS and dart Flutter**
 
 - 💬 Ask me about **Web & Mobile**
